@@ -1,7 +1,7 @@
 # Привет всем, меня зовут Дима! 👋
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc4MjY3NzExYmM3ZjE5Mzg0ZDYwOGU0M2E4NjM5ODI4N2E5ZDQ4Zjk0NTk1N2Q3YSZjdD1n/3o7aCUqZ32X4Q47g2w/giphy.gif" width="200" alt="Приветственная гифка">
+  <img src="/images/img1.gif" width="200" alt="Приветственная гифка">
 </div>
 
 ---
