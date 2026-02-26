@@ -31,10 +31,13 @@
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/html5" width="40" alt="HTML5">
-  <img src="https://cdn.simpleicons.org/css3" width="40" alt="CSS3">
+  <img src="https://unpkg.com/simple-icons@latest/icons/css3.svg" width="40" alt="CSS3">
   <img src="https://cdn.simpleicons.org/javascript" width="40" alt="JavaScript">
   <img src="https://cdn.simpleicons.org/react" width="40" alt="React">
   <img src="https://cdn.simpleicons.org/git" width="40" alt="Git">
+  <img src="https://cdn.simpleicons.org/figma" width="40" alt="Figma">
+  <img src="https://cdn.simpleicons.org/photoshop" width="40" alt="Photoshop">
+  <img src="https://cdn.simpleicons.org/vscode" width="40" alt="VS Code">
 </div>
 
 ---
