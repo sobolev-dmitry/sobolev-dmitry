@@ -30,14 +30,14 @@
 - VS Code ⚒
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/html5" width="40" alt="HTML5">
-  <img src="https://unpkg.com/simple-icons@latest/icons/css3.svg" width="40" alt="CSS3">
-  <img src="https://cdn.simpleicons.org/javascript" width="40" alt="JavaScript">
-  <img src="https://cdn.simpleicons.org/react" width="40" alt="React">
-  <img src="https://cdn.simpleicons.org/git" width="40" alt="Git">
-  <img src="https://cdn.simpleicons.org/figma" width="40" alt="Figma">
-  <img src="https://cdn.simpleicons.org/photoshop" width="40" alt="Photoshop">
-  <img src="https://cdn.simpleicons.org/vscode" width="40" alt="VS Code">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="HTML5">&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="CSS3">&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript">&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" alt="TypeScript">&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="React">&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" alt="VS Code">&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" alt="Figma">&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" width="40" alt="Photoshop">
 </div>
 
 ---
