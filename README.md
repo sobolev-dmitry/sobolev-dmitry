@@ -46,12 +46,12 @@
 
 Буду рад пообщаться и обсудить возможные проекты!
 
-- ✉️ Почта: [dimassobolev@vk.com](mailto:dimassobolev@vk.com)
+- ✉️ Почта: [sobolev.dmitry@outlook.com](mailto:sobolev.dmitry@outlook.com)
 - 📱 Telegram: [@dimassobolev](https://t.me/dimassobolev)
 - 🐱 GitHub: [sobolev-dmitry](https://github.com/sobolev-dmitry)
 
 <div align="center">
-  <a href="mailto:dimassobolev@vk.com">
+  <a href="mailto:sobolev.dmitry@outlook.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://t.me/dimassobolev">
